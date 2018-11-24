@@ -1,0 +1,5 @@
+Credentials cache: API:A83996D2-E8A1-40CA-B536-6446962B0724
+        Principal: amalsago@42.FR
+
+  Issued                Expires               Principal
+Jul  2 19:34:16 2018  Jul  9 19:34:11 2018  krbtgt/42.FR@42.FR
